@@ -1,4 +1,5 @@
 title: How to Create A Screen Recorder in Vanilla JavaScript 
+
 description: Learn how to record your screen and save the recorder screen as a video file using JavaScript.
 
 ### Introduction 
@@ -20,8 +21,8 @@ Create a new directory for the project and create   `index.html`  and  `recordsc
 
 ```bash
 screen_recorder_project/
-	|-index.html
-	|-recordscreen.js
+|-index.html
+|-recordscreen.js
 ```
 
 ### HTML Page
